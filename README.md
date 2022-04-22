@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sakthiarumugam106
 - 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ...New Technology's,..
-- 💞️ I’m looking to collaborate on ... Good Organization
+- 🌱 I’m currently learning ...New Technology's,..still...
 - 📫 How to reach me ... sakthiarumugam106@gmail.com
 
 <!---
