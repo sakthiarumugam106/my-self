@@ -145,7 +145,7 @@ export const mockPayments: Payment[] = [
 export const mockStudents: Student[] = [
   {
     id: '1',
-    email: 'student@verbigo.com',
+    email: 'student@edico.com',
     name: 'Ravi Kumar',
     role: 'student',
     phone: '+91 9876543210',
@@ -192,7 +192,7 @@ export const mockStudents: Student[] = [
 export const mockTutors: Tutor[] = [
   {
     id: '2',
-    email: 'tutor@verbigo.com',
+    email: 'tutor@edico.com',
     name: 'Priya Sharma',
     role: 'tutor',
     phone: '+91 9876543211',

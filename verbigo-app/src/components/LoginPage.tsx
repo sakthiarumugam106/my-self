@@ -69,9 +69,9 @@ const LoginPage: React.FC = () => {
 
   const fillDemoCredentials = (role: 'student' | 'tutor' | 'admin') => {
     const demoEmails = {
-      student: 'student@verbigo.com',
-      tutor: 'tutor@verbigo.com',
-      admin: 'admin@verbigo.com'
+      student: 'student@edico.com',
+      tutor: 'tutor@edico.com',
+      admin: 'admin@edico.com'
     };
     setSelectedRole(role);
     setEmail(demoEmails[role]);
@@ -86,7 +86,7 @@ const LoginPage: React.FC = () => {
           <div className="mx-auto w-16 h-16 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl flex items-center justify-center mb-6">
             <MessageCircle className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl font-bold text-gray-900">Welcome to Verbigo</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Welcome to Edico</h1>
           <p className="mt-2 text-gray-600">Sign in to your account</p>
         </div>
 
@@ -191,9 +191,9 @@ const LoginPage: React.FC = () => {
           <h4 className="text-sm font-medium text-gray-900 mb-2">Demo Credentials</h4>
           <div className="text-xs text-gray-600 space-y-1">
             <p><strong>Password for all roles:</strong> password123</p>
-            <p><strong>Student:</strong> student@verbigo.com</p>
-            <p><strong>Tutor:</strong> tutor@verbigo.com</p>
-            <p><strong>Admin:</strong> admin@verbigo.com</p>
+            <p><strong>Student:</strong> student@edico.com</p>
+            <p><strong>Tutor:</strong> tutor@edico.com</p>
+            <p><strong>Admin:</strong> admin@edico.com</p>
           </div>
         </div>
 
@@ -203,7 +203,7 @@ const LoginPage: React.FC = () => {
             onClick={() => navigate('/')}
             className="text-blue-600 hover:text-blue-700 text-sm font-medium"
           >
-            New to Verbigo? Enroll Now
+                         New to Edico? Enroll Now
           </button>
           <div className="text-xs text-gray-500">
             <a href="#" className="hover:text-gray-700">Forgot your password?</a>

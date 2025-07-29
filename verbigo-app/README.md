@@ -1,4 +1,4 @@
-# Verbigo - English & Tamil Communication Hub
+# Edico - English & Tamil Communication Hub
 
 A modern web application for managing English and Tamil language learning courses with separate dashboards for students, tutors, and administrators.
 
@@ -37,9 +37,9 @@ The application comes with pre-configured demo accounts:
 
 | Role | Email | Password |
 |------|--------|----------|
-| Student | student@verbigo.com | password123 |
-| Tutor | tutor@verbigo.com | password123 |
-| Admin | admin@verbigo.com | password123 |
+| Student | student@edico.com | password123 |
+| Tutor | tutor@edico.com | password123 |
+| Admin | admin@edico.com | password123 |
 
 ## Getting Started
 

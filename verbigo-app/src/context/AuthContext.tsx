@@ -14,7 +14,7 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 const mockUsers: User[] = [
   {
     id: '1',
-    email: 'student@verbigo.com',
+    email: 'student@edico.com',
     name: 'Ravi Kumar',
     role: 'student',
     phone: '+91 9876543210',
@@ -22,7 +22,7 @@ const mockUsers: User[] = [
   },
   {
     id: '2',
-    email: 'tutor@verbigo.com',
+    email: 'tutor@edico.com',
     name: 'Priya Sharma',
     role: 'tutor',
     phone: '+91 9876543211',
@@ -30,7 +30,7 @@ const mockUsers: User[] = [
   },
   {
     id: '3',
-    email: 'admin@verbigo.com',
+    email: 'admin@edico.com',
     name: 'Admin User',
     role: 'admin',
     phone: '+91 9876543212',

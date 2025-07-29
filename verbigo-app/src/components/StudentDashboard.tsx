@@ -52,7 +52,7 @@ const StudentDashboard: React.FC = () => {
                 <MessageCircle className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Verbigo</h1>
+                <h1 className="text-2xl font-bold text-gray-900">Edico</h1>
                 <p className="text-sm text-gray-600">Student Dashboard</p>
               </div>
             </div>
